@@ -1,0 +1,4 @@
+5 add 3
+5 sub 3
+5 mul 3
+5 div 3

@@ -7,3 +7,5 @@ create table tb_cal (
 	primary key (id)
 ) ENGINE=InnoDB default charset=utf8;
 select * from tb_cal;
+
+select * from tb_cal where id=33;

@@ -12,3 +12,5 @@ INSERT INTO tb_msg (id, code, msg) VALUES (3,  99, 'MulOneException is occured.'
 INSERT INTO tb_msg (id, code, msg) VALUES (4, 100, 'DivOneException is occured.');
 INSERT INTO tb_msg (id, code, msg) VALUES (4, 100, '나는 pro');
 INSERT INTO tb_msg (id, code, msg) VALUES (4, 100, '나는 pro');
+INSERT INTO tb_msg (id, code, msg) VALUES (4, 100, '나는 pro');
+INSERT INTO tb_msg (id, code, msg) VALUES (4, 100, '나는 pro');

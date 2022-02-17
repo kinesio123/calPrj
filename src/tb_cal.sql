@@ -9,3 +9,7 @@ create table tb_cal (
 select * from tb_cal;
 
 select * from tb_cal where id=33;
+
+select * from tb_cal where id=33;
+select * from tb_cal where id=33;
+select * from tb_cal where id=33;
